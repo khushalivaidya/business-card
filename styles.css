@@ -1,0 +1,43 @@
+body {
+    margin: 50px;
+    display: block;
+    margin: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.avatar {
+    width: 150px;
+}
+.card {
+    width: 400px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #13213b;
+    color: #ffa737;
+    border: 3px none #f5f4f6;
+    border-radius: 5px;
+}
+
+.border-blue {
+    border: 3px solid #f5f4f6;
+    box-shadow: 2px 2px gray;
+    border-radius: 5px;
+}
+
+.space{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+p:hover{
+    color: #f5f4f6;
+
+}
+h3:hover{
+    color: #f5f4f6;
+}
+h4:hover{
+    color: #f5f4f6;
+}
